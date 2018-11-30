@@ -1,0 +1,15 @@
+Log opened at 2018-11-30 17:28:00
+I: Connecting to configured address/port: localhost:9001.
+E: Time-out connecting to client (Waited: 200 ms). :-(
+Log closed at 2018-11-30 17:28:00
+
+Log opened at 2018-11-30 17:28:01
+I: Connecting to configured address/port: localhost:9001.
+E: Time-out connecting to client (Waited: 200 ms). :-(
+Log closed at 2018-11-30 17:28:01
+
+Log opened at 2018-11-30 17:28:01
+I: Connecting to configured address/port: localhost:9001.
+E: Time-out connecting to client (Waited: 200 ms). :-(
+Log closed at 2018-11-30 17:28:02
+
